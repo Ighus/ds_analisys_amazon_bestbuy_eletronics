@@ -1,8 +1,8 @@
-##DESCRIPTION
+#DESCRIPTION
 
 A list of over 7,000 online reviews from 50 electronic products.
 
-##SUMMARY
+#SUMMARY
 
 About This Data
 This is a list of over 7,000 online reviews for 50 electronic products from websites like Amazon and Best Buy provided by Datafiniti's Product Database. The dataset includes the review date, source, rating, title, reviewer metadata, and more.
@@ -13,8 +13,11 @@ What You Can Do With This Data
 You can use this data to identify how consumer feedback impacts the product buying process. E.g.:
 
 What are the different trends for electronic products?
+
 What is the correlation between star ratings and positive reviews?
+
 What is the online reputation of different brands?
+
 Data Schema
 A full schema for the data is available in our support documentation.
 
